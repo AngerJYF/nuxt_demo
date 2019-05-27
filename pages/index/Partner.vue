@@ -1,5 +1,8 @@
 <template>
-  <div class="Partner">Partner</div>
+  <div class="Partner">
+    <p>Partner</p>
+    <el-button type="primary">success</el-button>
+  </div>
 </template>
 
 <script>

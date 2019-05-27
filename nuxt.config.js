@@ -18,7 +18,7 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: "https://api.map.baidu.com/api?v=2.0&ak=m7Lfcq4GD9za2531Cw2GumDZFcbDoZ5H" },
+      { src: "https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js" },
     ]
   },
 
